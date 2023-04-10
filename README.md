@@ -21,12 +21,12 @@
 
 
 
-## :muscle: Motivation
+## Motivation
 In the present scenario due to Covid-19, there rose a need for consistent face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. Also, the absence of large datasets of __‘with_mask’__ images has made this task more cumbersome and challenging. 
 
 
 
-## :warning: Libraries/ used
+## Libraries/ used
 
 - [OpenCV](https://opencv.org/)
 - [Keras](https://keras.io/)
@@ -35,7 +35,7 @@ In the present scenario due to Covid-19, there rose a need for consistent face m
 - [Caffe-based face detector](https://caffe.berkeleyvision.org/)
 - [Streamlit](https://docs.streamlit.io/en/stable/api.html)
 
-## :star: Usecase
+## Usecase
 The face mask detector is made purely using real non-morphed images. 
 This model has 3 applications:
   1. Loading an image from a database and detecting face masks.
@@ -45,7 +45,7 @@ This model has 3 applications:
 The 3rd application makes the model particularly useful in queues at airports, banks, malls and other public places.
 Since in a we need to detect every 5-10 seconds, we can use the 3rd mode with great efficiency.
 
-## :file_folder: Dataset
+## Dataset
 The dataset used can be downloaded here - [Click to Download](https://github.com/techyhoney/Facemask_Detection/tree/master/dataset)
 
 This dataset consists of __4000 images__ belonging to two classes:
@@ -58,7 +58,7 @@ The images used were real images of faces wearing masks. The images were collect
 * [__RMFD dataset__](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset)
 * [__Google Dataset Search__](https://datasetsearch.research.google.com/)
 
-## :gear: Prerequisites
+## Prerequisites
 
 All the dependencies and required libraries are included in the file <code>requirements.txt</code>
 
@@ -87,7 +87,7 @@ $ source test/bin/activate
 $ pip3 install -r requirements.txt
 ```
 
-## :trophy: Results
+## Results
 
 #### Our model gave around 99% accuracy for Face Mask Detection after training.
 ####          
@@ -101,5 +101,5 @@ $ pip3 install -r requirements.txt
 ![](https://i.imgur.com/RYiOlCP.png)
 
 
-## :eyes: License
+## License
 [MIT](https://github.com/techyhoney/Facemask_Detection/blob/master/LICENSE)
