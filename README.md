@@ -29,7 +29,7 @@ The 3rd application makes the model particularly useful in queues at airports, b
 Since in a we need to detect every 5-10 seconds, we can use the 3rd mode with great efficiency.
 
 ## Dataset
-The dataset used can be downloaded here - [Click to Download](https://github.com/techyhoney/Facemask_Detection/tree/master/dataset)
+The dataset used can be downloaded here - [Link to Google Drive](https://drive.google.com/drive/folders/1-K-RnVyz7HSJbcbXqxf5kFdzU45-RMl7?usp=share_link)
 
 This dataset consists of __4000 images__ belonging to two classes:
 *	__with_mask: 2000 images__
