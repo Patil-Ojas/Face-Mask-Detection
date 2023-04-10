@@ -63,7 +63,7 @@ The images used were real images of faces wearing masks. The images were collect
 All the dependencies and required libraries are included in the file <code>requirements.txt</code>
 
 
-## 🚀&nbsp; Execution
+## Execution
 1. Clone the repo
 ```
 $ git clone https://github.com/techyhoney/Facemask_Detection.git
